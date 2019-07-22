@@ -1,17 +1,9 @@
-# Niryo One
+# Open Niryo One
 
-(Niryo One : [https://niryo.com](https://niryo.com/?utm_source=github))
+This is the Open Niryo One project. 
+The original Niryo One Project is covering very well the structure of the arm and the mechanicanics, but it has some gaps with the electonics. 
 
-![Niryo One image](https://niryo.com/wp-content/uploads/2018/09/niryo_one_with_gripper1.jpg)
+Here with *Open Niryo One* we are developing what's missing.
 
-This repository contains STL files to print Niryo One with a 3D printer.
-
-Note : **You need at least a 200mm\*200mm\*200mm 3D printer to be able to print all the parts.**
-
-You can find Niryo One ROS stack here : https://github.com/NiryoRobotics/niryo_one_ros 
-
-Enjoy !
-
----
-
-Note : if you have received your Niryo One before September 2018, the files related to your robot are located in the "Archive (v 1.1.0)" folder.
+Special thanks to the original project team for the great work. 
+[https://niryo.com](https://niryo.com/?utm_source=github)
