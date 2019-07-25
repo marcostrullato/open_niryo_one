@@ -2,9 +2,9 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=C:\Users\mihailov\Desktop\.PDF
+OutputFilePath2=F:\PROJ\open_niryo_one\Electronics\Stepper\PCB\.PDF
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\mihailov\Desktop\
+OutputBasePath2=F:\PROJ\open_niryo_one\Electronics\Stepper\PCB\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -79,7 +79,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\mihailov\Desktop\.PDF
+RelativeOutputPath2=F:\PROJ\open_niryo_one\Electronics\Stepper\PCB\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
