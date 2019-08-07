@@ -143,4 +143,6 @@ Configuration2_Name1=ColumnNameFormat
 Configuration2_Item1=CaptionAsName
 Configuration2_Name2=General
 Configuration2_Item2=TemplateFilename=
+Configuration2_Name3=OutputConfigurationParameter1
+Configuration2_Item3==SimpleBOMView|SimpleBOMMode=0
 
