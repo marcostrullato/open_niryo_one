@@ -1,11 +1,13 @@
-Output: Simple BOM
-Type  : SimpleBOM
-From  : Variant [[No Variations]] of Project [niryoStepperController.PrjPcb]
-   Generated File[Core.BOM]
-   Generated File[Core.CSV]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [niryoStepperController.PrjPcb]
+   Generated File[stepperPCB-RoundHoles.TXT]
+   Generated File[stepperPCB-SlotHoles.TXT]
+   Generated File[stepperPCB.LDP]
+   Generated File[stepperPCB.DRR]
 
 
-Files Generated   : 2
+Files Generated   : 4
 Documents Printed : 0
 
-Finished Output Generation At 14:19:04 On 26.07.2019
+Finished Output Generation At 9:46:38 On 19.08.2019
