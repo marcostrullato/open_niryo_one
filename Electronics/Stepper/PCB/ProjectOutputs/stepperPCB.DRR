@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: stepperPCB.PcbDoc   18.09.2019  23:50:38
+NCDrill File Report For: stepperPCB.PcbDoc   02.10.2019  23:22:48
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -10,11 +10,12 @@ EIA File   : stepperPCB.DRL
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
 T1        11.81mil (0.29997mm)     Round          100              16.24 Inch (412.49 mm)
-T2        25.59mil (0.64999mm)     Slot           4                283.97 Inch (7212.88 mm)
-T3        31.5mil (0.8001mm)       Round          5                0.31 Inch (8.00 mm)
-T4        39.37mil (1mm)           Round          8                0.91 Inch (23.23 mm)
-T5        118.11mil (2.99999mm)    Round          4         NPTH   3.66 Inch (93.00 mm)
+T2        25.59mil (0.64999mm)     Round          2                0.18 Inch (4.45 mm)
+T3        25.59mil (0.64999mm)     Slot           2                283.88 Inch (7210.50 mm)
+T4        31.5mil (0.8001mm)       Round          5                0.31 Inch (8.00 mm)
+T5        39.37mil (1mm)           Round          8                0.91 Inch (23.23 mm)
+T6        118.11mil (2.99999mm)    Round          4         NPTH   3.66 Inch (93.00 mm)
 ---------------------------------------------------------------------------
-Totals                                            121              305.10 Inch (7749.60 mm)
+Totals                                            121              305.18 Inch (7751.67 mm)
 
 Total Processing Time (hh:mm:ss) : 00:00:00

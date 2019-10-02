@@ -139,70 +139,130 @@ DocumentPath=Project Outputs for niryoStepperController\stepperPCB-RoundHoles-Pl
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB-RoundHoles.TXT
+DocumentPath=ProjectOutputs\stepperPCB-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB-SlotHoles-Plated.TXT
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB-SlotHoles.TXT
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB-SlotHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.DRL
+DocumentPath=ProjectOutputs\stepperPCB-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.DRR
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.EXTREP
+DocumentPath=ProjectOutputs\stepperPCB.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GBL
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GBO
+DocumentPath=ProjectOutputs\stepperPCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GBP
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GM1
+DocumentPath=ProjectOutputs\stepperPCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GTL
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GTO
+DocumentPath=ProjectOutputs\stepperPCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GTS
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.LDP
+DocumentPath=ProjectOutputs\stepperPCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=stepperPCB.PcbDoc.htm
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.REP
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
+DocumentPath=ProjectOutputs\stepperPCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=ProjectOutputs\stepperPCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=ProjectOutputs\stepperPCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=ProjectOutputs\stepperPCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=ProjectOutputs\stepperPCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=ProjectOutputs\stepperPCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=stepperPCB.PcbDoc.htm
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=ProjectOutputs\stepperPCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=ProjectOutputs\stepperPCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument35]
 DocumentPath=Project Outputs for niryoStepperController\stepperPCB.RUL
 DItemRevisionGUID=
 
@@ -235,6 +295,9 @@ CurrentRevision=
 Variant=[No Variations]
 GenerateBOM=1
 OutputJobsCount=0
+
+[Generic_EDE]
+OutputDir=
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
@@ -271,9 +334,6 @@ SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
-
-[Generic_EDE]
-OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -587,7 +647,7 @@ OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
 Configuration9_Name1=OutputConfigurationParameter1
-Configuration9_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842751~1,16973833~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration9_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs

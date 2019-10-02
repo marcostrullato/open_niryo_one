@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: stepperPCB.GBR   18.09.2019  23:50:22
+Gerber File Extension Report For: stepperPCB.GBR   02.10.2019  23:22:31
 ------------------------------------------------------------------------------------------
 
 
@@ -11,7 +11,6 @@ Layer Extension     Layer Description
 .GTO                Top Overlay                             
 .GTS                Top Solder                              
 .GBS                Bottom Solder                           
-.GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
 ------------------------------------------------------------------------------------------
