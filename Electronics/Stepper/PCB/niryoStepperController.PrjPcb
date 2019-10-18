@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for niryoStepperController
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -53,7 +53,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LFJFBING
+DocumentUniqueId=CJASJGCE
 
 [Document2]
 DocumentPath=Stepper.SchDoc
@@ -70,7 +70,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KQOVPSJJ
+DocumentUniqueId=PNNADGDG
 
 [Document3]
 DocumentPath=niryoStepperController.Annotation
@@ -104,7 +104,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DCJYDYES
+DocumentUniqueId=BQHRQNJV
 
 [Document5]
 DocumentPath=stepperPCB.PcbDoc
@@ -121,7 +121,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EWOXATWX
+DocumentUniqueId=UVFQKRYQ
 
 [Document6]
 DocumentPath=niryoStepperController.OutJob
@@ -324,9 +324,6 @@ CurrentRevision=
 Variant=[No Variations]
 OutputJobsCount=0
 
-[Generic_EDE]
-OutputDir=
-
 [Generic_SmartPDF]
 AutoOpenFile=-1
 AutoOpenOutJob=-1
@@ -340,7 +337,7 @@ AddNetNetLabels=-1
 AddNetPorts=-1
 ShowComponentParameters=-1
 GlobalBookmarks=0
-ExportBOM=-1
+ExportBOM=0
 TemplateFilename=
 TemplateStoreRelative=-1
 PCB_PrintColor=1
@@ -362,6 +359,9 @@ SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
+
+[Generic_EDE]
+OutputDir=Project Outputs for niryoStepperController
 
 [OutputGroup1]
 Name=Netlist Outputs
