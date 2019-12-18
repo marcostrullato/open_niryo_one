@@ -1,8 +1,0 @@
-Change Component Footprint: Designator=J3 Old Footprint=CWF-3 New Footprint=CWF-3R
-Change Component Footprint: Designator=J4 Old Footprint=CWF-3 New Footprint=CWF-3R
-Change Component Comment : Designator=J3 Old Comment=CWF-3 New Comment=CWF-3(R)
-Change Component Comment : Designator=J4 Old Comment=CWF-3 New Comment=CWF-3(R)
-Added Room: Name=CAN
-Added Room: Name=Dynamixel
-Added Room: Name=Interface
-Added Room: Name=Power
