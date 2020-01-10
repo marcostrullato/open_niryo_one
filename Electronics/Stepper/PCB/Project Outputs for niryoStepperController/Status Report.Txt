@@ -1,19 +1,9 @@
-Output: Gerber Files
-Type  : Gerber
+Output: Bill of Materials
+Type  : BOM
 From  : Variant [[No Variations]] of Project [niryoStepperController.PrjPcb]
-   Generated File[stepperPCB.GTL]
-   Generated File[stepperPCB.GBL]
-   Generated File[stepperPCB.GTO]
-   Generated File[stepperPCB.GTS]
-   Generated File[stepperPCB.GBS]
-   Generated File[stepperPCB.GBO]
-   Generated File[stepperPCB.GM1]
-   Generated File[stepperPCB.RUL]
-   Generated File[stepperPCB.EXTREP]
-   Generated File[stepperPCB.REP]
 
 
-Files Generated   : 10
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 16:05:29 On 13.12.2019
+Finished Output Generation At 14:40:37 On 10.01.2020

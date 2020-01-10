@@ -2,15 +2,15 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=F:\PROJ\open_niryo_one\Electronics\Stepper\OUT\R2\.PDF
+OutputFilePath2=F:\PROJ\open_niryo_one\Electronics\Stepper\PCB\.PDF
 ReleaseManaged2=0
-OutputBasePath2=F:\PROJ\open_niryo_one\Electronics\Stepper\OUT\R2\
+OutputBasePath2=F:\PROJ\open_niryo_one\Electronics\Stepper\PCB\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=Stepper PCB shematic.pdf
+OutputFileName2=niryoStepperController.pdf
 OutputFileNameMulti2=
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
@@ -79,7 +79,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=F:\PROJ\open_niryo_one\Electronics\Stepper\OUT\R2\.PDF
+RelativeOutputPath2=F:\PROJ\open_niryo_one\Electronics\Stepper\PCB\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
