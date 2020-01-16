@@ -1,0 +1,75 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C14        ALUM_CAP_D        1185.039mil    429.134mil   1185.039mil    429.134mil   1185.039mil     539.37mil  T        270.00 100uF x 35V    
+U4         TSSOP-16P          925.197mil    305.118mil    925.197mil    297.244mil   1014.764mil    417.323mil  T        270.00 A4954          
+C15        CHIP_C_0603        782.328mil    297.952mil    782.328mil    297.952mil    782.328mil    333.386mil  T        270.00 0.22uF         
+C8         CHIP_C_0603        645.669mil    348.425mil    645.669mil    348.425mil    620.614mil     373.48mil  T        315.00 0.1uF          
+C4         CHIP_C_0603        409.449mil    198.819mil    409.449mil    198.819mil    444.882mil    198.819mil  T        180.00 22pF           
+C6         CHIP_C_0603        533.465mil    198.819mil    533.465mil    198.819mil    498.031mil    198.819mil  T        360.00 22pF           
+5V         TestPoint          299.213mil    974.409mil    299.213mil    974.409mil    299.213mil    974.409mil  T          0.00 TestPoint      
+F1         1206Lxxx           265.748mil   1143.701mil    265.748mil   1143.701mil    265.748mil   1088.583mil  T         90.00 1206L050       
+D2         SOD323             177.165mil   1175.197mil    177.165mil   1175.197mil    177.165mil   1219.094mil  B        270.00 1N4148WC       
+U6         SOIC8              740.551mil   1167.323mil    740.551mil   1167.323mil    815.551mil   1061.024mil  B         90.00 SN65HVD230D    
+R6         CHIP_R_0603        564.961mil    683.071mil    564.961mil    683.071mil    564.961mil    718.504mil  B        270.00 4K7            
+U5         SOIC8             1222.441mil   1116.142mil   1222.441mil   1116.142mil   1116.142mil   1041.142mil  B        360.00 LM2594M-ADJ    
+R12        CHIP_R_0603       1181.102mil    661.417mil   1216.535mil    661.417mil   1181.102mil    661.417mil  T        180.00 1K             
+R7         CHIP_R_0603        891.732mil    763.779mil    891.732mil    763.779mil    856.299mil    763.779mil  T        360.00 0R             
+R10        CHIP_R_0603        891.732mil    568.898mil    891.732mil    568.898mil    856.299mil    568.898mil  T        360.00 0R             
+R3         CHIP_R_0603         342.52mil   1070.866mil     342.52mil   1070.866mil     342.52mil   1035.433mil  T         90.00 1K             
+JP1        PLS-2R             377.165mil   1340.551mil    327.165mil   1340.551mil    327.165mil   1340.551mil  T        360.00 PLS-2R         
+L1         CHIP_R_0603        692.913mil    393.701mil    692.913mil    393.701mil    717.968mil    368.646mil  T        135.00 BLM18PG471SN1D 
+Q1         SOT23             1358.268mil    673.228mil   1358.268mil    667.323mil   1320.866mil    714.567mil  B        270.00 IRLML2402      
+R4         0R_0603_selector    799.212mil    887.795mil    801.181mil    887.795mil     868.11mil    887.795mil  B        180.00 0R             
+R5         CHIP_R_0603        564.961mil    812.992mil    564.961mil    812.992mil    564.961mil    777.559mil  B         90.00 4K7            
+R15        CHIP_R_1206        384.252mil   1423.228mil    384.252mil   1423.228mil    441.339mil   1423.228mil  B        180.00 120R           
+R14        CHIP_R_0603        720.275mil   1092.987mil    720.275mil   1092.987mil    684.842mil   1092.987mil  T        360.00 10K            
+U3         SOIC8              748.027mil    748.032mil    748.027mil    748.032mil    854.326mil    823.032mil  B        180.00 AS5600         
+Y1         NX3215SA           440.945mil    291.339mil    440.945mil    291.339mil    490.158mil    291.339mil  T        180.00 NX3215SA-32.768K-STD-MUA-8
+Y2         CHIP_CRYSTAL_5032    307.087mil   1076.772mil    307.087mil   1076.772mil    307.087mil   1149.606mil  B        270.00 KX-K 16 MHZ    
+C10        CHIP_C_0603        933.066mil    748.031mil    933.066mil    748.032mil    933.066mil    712.598mil  B         90.00 0.1uF          
+C24        CHIP_C_0603        364.173mil   1242.126mil    364.173mil   1242.126mil     328.74mil   1242.126mil  B        360.00 22pF           
+C25        CHIP_C_0603        350.394mil    911.417mil    350.394mil    911.417mil    314.961mil    911.417mil  B        360.00 22pF           
+C23        CHIP_C_0603        564.961mil   1273.622mil    564.961mil   1273.622mil    529.528mil   1273.622mil  B        360.00 0.1uF          
+C11        CHIP_C_0603        998.657mil    748.031mil    998.657mil    748.032mil    998.657mil    712.598mil  B         90.00 10uF           
+C19        CHIP_C_0603       1255.546mil    941.181mil   1255.546mil    941.181mil   1255.546mil    905.748mil  B         90.00 4.7nF          
+C20        CHIP_C_0603       1125.546mil    941.181mil   1125.546mil    941.181mil   1125.546mil    976.615mil  B        270.00 0.1uF          
+C22        CHIP_C_0603        740.551mil    986.221mil    740.551mil    986.221mil    775.984mil    986.221mil  B        180.00 0.1uF          
+D5         DO214-AC          1185.039mil   1344.488mil   1185.039mil   1344.488mil   1185.039mil    1421.85mil  B         90.00 US-1G          
+F2         1206Lxxx          1029.528mil   1377.953mil   1029.528mil   1377.953mil    974.409mil   1377.953mil  B        360.00 1206L200       
+L2         CDRH74             1196.85mil   1009.842mil    1196.85mil   1009.842mil    1196.85mil    883.858mil  T         90.00 CDRH74         
+R1         CHIP_R_0603         157.48mil     421.26mil     157.48mil     421.26mil    182.535mil    446.315mil  T        225.00 10K            
+R2         CHIP_R_0603       1358.268mil     789.37mil   1358.268mil     789.37mil   1322.835mil     789.37mil  B        360.00 10K            
+R8         CHIP_R_1206       1055.118mil     196.85mil   1055.118mil     196.85mil   1055.118mil    139.764mil  B         90.00 .15RF          
+R9         CHIP_R_1206        779.528mil     196.85mil    779.528mil     196.85mil    779.528mil    139.764mil  B         90.00 .15RF          
+R11        CHIP_R_0603       1190.546mil    941.181mil   1190.546mil    941.181mil   1190.546mil    976.615mil  B        270.00 5K6F           
+R13        CHIP_R_0603       1320.546mil    941.181mil   1320.546mil    941.181mil   1320.546mil    905.748mil  B         90.00 3K32F          
+1          LAMEL             1043.307mil     66.929mil   1042.307mil     65.961mil   1043.307mil     66.929mil  T        180.00 Lamel          
+4          LAMEL              809.054mil     66.929mil    810.054mil     65.929mil    809.054mil     66.929mil  T          0.00 Lamel          
+3          LAMEL              887.794mil     66.929mil    888.794mil     65.929mil    887.794mil     66.929mil  T          0.00 Lamel          
+2          LAMEL              964.567mil     66.929mil    965.567mil     65.929mil    964.567mil     66.929mil  T          0.00 Lamel          
+U2         SOT23              669.291mil    198.819mil    669.291mil    192.913mil     631.89mil    240.157mil  B        270.00 TC1047         
+3V3        TestPoint          891.732mil   1023.622mil    891.732mil   1023.622mil    891.732mil   1023.622mil  T         90.00 TestPoint      
+12V        TestPoint         1185.039mil    116.142mil   1185.039mil    116.142mil   1185.039mil    116.142mil  T          0.00 TestPoint      
+U7         QFN20              523.622mil   1138.386mil    523.622mil   1138.386mil    562.992mil   1215.748mil  T        270.00 MCP2515        
+C17        TANTAL_-_C        1070.866mil   1216.535mil   1070.866mil   1318.898mil   1070.866mil   1216.535mil  T         90.00 68uF x 16V     
+C16        CHIP_C_0805       1190.945mil    1381.89mil   1190.945mil    1381.89mil   1190.945mil    1421.26mil  T        270.00 1uF            
+D3         DO214-AC           1407.48mil   1019.685mil    1407.48mil   1019.685mil    1407.48mil   1097.047mil  T         90.00 10MQ040(60)    
+J4         CWF-4R             750.394mil   1377.953mil    898.032mil   1377.953mil    898.032mil   1377.953mil  T        180.00 CWF-4          
+GND        TestPoint          889.764mil   1106.299mil    889.764mil   1106.299mil    889.764mil   1106.299mil  T         90.00 TestPoint      
+C21        CHIP_C_0603        720.472mil   1025.591mil    720.472mil   1025.591mil    685.039mil   1025.591mil  T        360.00 0.1uF          
+C9         CHIP_C_0603        655.512mil    783.465mil    655.512mil    783.465mil    680.567mil     758.41mil  T        135.00 0.1uF          
+C12        CHIP_C_0603        889.764mil    698.819mil    889.764mil    698.819mil    854.331mil    698.819mil  T        360.00 0.1uF          
+C13        CHIP_C_0603        891.732mil    633.858mil    891.732mil    633.858mil    856.299mil    633.858mil  T        360.00 0.1uF          
+J1         PLS-2             1383.858mil    487.008mil   1383.858mil    437.008mil   1383.858mil    437.008mil  T         90.00 PLS-2          
+C18        Tantal_-_B        1262.598mil    763.779mil   1314.961mil    763.779mil   1262.598mil    763.779mil  T        360.00 100uF x 10V    
+D4         CHIP_D_0603       1336.614mil    661.417mil   1336.614mil    661.417mil   1307.087mil    661.417mil  T        360.00 BL-HUE33-AV    
+D1         CHIP_D_0603         342.52mil   1188.976mil     342.52mil   1188.976mil     342.52mil   1159.449mil  T         90.00 BL-HUE33-AV    
+C5         CHIP_C_0603        143.701mil    718.504mil    143.701mil    718.504mil    118.646mil    693.449mil  T         45.00 0.1uF          
+L3         CHIP_R_0603         57.087mil    759.842mil     57.087mil    759.842mil     57.087mil    795.276mil  T        270.00 BLM18PG471SN1D 
+C3         CHIP_C_0603        112.205mil    468.504mil    112.205mil    468.504mil     137.26mil    493.559mil  T        225.00 0.1uF          
+C2         CHIP_C_0603        204.724mil    374.016mil    204.724mil    374.016mil    229.779mil    399.071mil  T        225.00 1uF            
+C1         CHIP_C_0603        251.968mil     328.74mil    251.969mil     328.74mil    226.913mil    303.685mil  T         45.00 0.1uF          
+J2         PLS-4              473.228mil     80.709mil    323.228mil     80.709mil    323.228mil     80.709mil  T        360.00 PLS-4          
+J3         MicroUSB-mc-258    109.744mil   1037.402mil    162.402mil   1037.402mil    162.402mil   1088.583mil  T          0.00 CUI UJ2-MIBH2-4-SMT-TR
+U1         LQFP48             437.008mil    604.331mil    437.008mil    604.331mil    473.198mil    415.027mil  T        135.00 SAMD21G18A-AUT 
+

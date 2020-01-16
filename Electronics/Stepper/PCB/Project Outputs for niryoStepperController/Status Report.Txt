@@ -1,9 +1,10 @@
-Output: Bill of Materials
-Type  : BOM
+Output: Test Point Report
+Type  : Test Points
 From  : Variant [[No Variations]] of Project [niryoStepperController.PrjPcb]
+   Generated File[Assembly Testpoint Report for stepperPCB.csv]
 
 
-Files Generated   : 0
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 14:40:37 On 10.01.2020
+Finished Output Generation At 12:54:56 On 16.01.2020
