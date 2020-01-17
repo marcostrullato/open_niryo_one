@@ -1,14 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [niryoStepperController.PrjPcb]
-   Generated File[stepperPCB-RoundHoles.TXT]
-   Generated File[stepperPCB-SlotHoles.TXT]
-   Generated File[stepperPCB.DRL]
-   Generated File[stepperPCB.LDP]
-   Generated File[stepperPCB.DRR]
+Output: Test Point Report
+Type  : Test Points
+From  : Variant [[No Variations]] of Project [niryoStepperController.PrjPcb]
+   Generated File[Assembly Testpoint Report for stepperPCB.csv]
 
 
-Files Generated   : 5
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 10:03:00 On 19.08.2019
+Finished Output Generation At 12:54:56 On 16.01.2020

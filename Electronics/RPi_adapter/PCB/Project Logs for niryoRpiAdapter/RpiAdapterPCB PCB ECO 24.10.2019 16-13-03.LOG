@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=12V Pin=C8-1
-Removed Pin From Net: NetName=GND Pin=C8-2
-Change Component Footprint: Designator=C8 Old Footprint=TANTAL - C New Footprint=ALCAP_10x20
-Added Pin To Net: NetName=GND Pin=C8-1
-Added Pin To Net: NetName=12V Pin=C8-2

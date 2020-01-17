@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for niryoStepperController
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -53,7 +53,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BLPFMWTM
+DocumentUniqueId=OAWMAFST
 
 [Document2]
 DocumentPath=Stepper.SchDoc
@@ -70,7 +70,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BWUXLJBG
+DocumentUniqueId=LYHESODE
 
 [Document3]
 DocumentPath=niryoStepperController.Annotation
@@ -104,7 +104,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WHWDTFXJ
+DocumentUniqueId=PDTSJJFI
 
 [Document5]
 DocumentPath=stepperPCB.PcbDoc
@@ -121,7 +121,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EOXFYDUC
+DocumentUniqueId=HVOBIJQJ
 
 [Document6]
 DocumentPath=niryoStepperController.OutJob
@@ -157,144 +157,194 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document8]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=CAMtastic2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for niryoStepperController\Net Status - stepperPCB.html
+DocumentPath=Project Outputs for niryoStepperController\Assembly Testpoint Report for stepperPCB.csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB-RoundHoles-NonPlated.TXT
+DocumentPath=Project Outputs for niryoStepperController\Net Status - stepperPCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB-RoundHoles-Plated.TXT
+DocumentPath=Project Outputs for niryoStepperController\Pick Place for stepperPCB.txt
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=ProjectOutputs\stepperPCB-RoundHoles.TXT
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB-RoundHoles-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB-RoundHoles.TXT
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB-RoundHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB-SlotHoles-Plated.TXT
+DocumentPath=ProjectOutputs\stepperPCB-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=ProjectOutputs\stepperPCB-SlotHoles.TXT
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB-SlotHoles.TXT
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB-SlotHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=ProjectOutputs\stepperPCB.DRL
+DocumentPath=ProjectOutputs\stepperPCB-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.DRL
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=ProjectOutputs\stepperPCB.DRR
+DocumentPath=ProjectOutputs\stepperPCB.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.DRR
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=ProjectOutputs\stepperPCB.EXTREP
+DocumentPath=ProjectOutputs\stepperPCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.EXTREP
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=ProjectOutputs\stepperPCB.GBL
+DocumentPath=ProjectOutputs\stepperPCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GBL
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=ProjectOutputs\stepperPCB.GBO
+DocumentPath=ProjectOutputs\stepperPCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GBO
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GBP
+DocumentPath=ProjectOutputs\stepperPCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=ProjectOutputs\stepperPCB.GBS
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=ProjectOutputs\stepperPCB.GM1
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GM1
+DocumentPath=ProjectOutputs\stepperPCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=ProjectOutputs\stepperPCB.GTL
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GTL
+DocumentPath=ProjectOutputs\stepperPCB.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=ProjectOutputs\stepperPCB.GTO
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GTO
+DocumentPath=ProjectOutputs\stepperPCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=ProjectOutputs\stepperPCB.GTS
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GTS
+DocumentPath=ProjectOutputs\stepperPCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=ProjectOutputs\stepperPCB.LDP
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.LDP
+DocumentPath=ProjectOutputs\stepperPCB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=stepperPCB.PcbDoc.htm
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=ProjectOutputs\stepperPCB.REP
+DocumentPath=ProjectOutputs\stepperPCB.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for niryoStepperController\stepperPCB.REP
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=ProjectOutputs\stepperPCB.RUL
+DocumentPath=stepperPCB.PcbDoc.htm
 DItemRevisionGUID=
 
 [GeneratedDocument35]
+DocumentPath=ProjectOutputs\stepperPCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=ProjectOutputs\stepperPCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument38]
 DocumentPath=Project Outputs for niryoStepperController\stepperPCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for niryoStepperController\stepperPCB.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -361,7 +411,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for niryoStepperController
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -624,48 +674,86 @@ PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Kyocera FS-6970DN KX
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=4.57|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
+Configuration1_Name2=OutputConfigurationParameter2
+Configuration1_Item2=IncludeBottomLayerComponents=False|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Top LayerAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration1_Name3=OutputConfigurationParameter3
+Configuration1_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=TopLayer|Polygon=Hidden|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration1_Name4=OutputConfigurationParameter4
+Configuration1_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration1_Name5=OutputConfigurationParameter5
+Configuration1_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Hidden|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration1_Name6=OutputConfigurationParameter6
+Configuration1_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration1_Name7=OutputConfigurationParameter7
+Configuration1_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration1_Name8=OutputConfigurationParameter8
+Configuration1_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration1_Name9=OutputConfigurationParameter9
+Configuration1_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer
+Configuration1_Name10=OutputConfigurationParameter10
+Configuration1_Item10=IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=False|IncludeViewports=True|Index=1|Mirror=False|Name=Bottom LayerAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False
+Configuration1_Name11=OutputConfigurationParameter11
+Configuration1_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Hidden|FFill=Hidden|FPad=Hidden|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=BottomLayer|Polygon=Hidden|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration1_Name12=OutputConfigurationParameter12
+Configuration1_Item12=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration1_Name13=OutputConfigurationParameter13
+Configuration1_Item13=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Hidden|Layer=MultiLayer|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration1_Name14=OutputConfigurationParameter14
+Configuration1_Item14=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration1_Name15=OutputConfigurationParameter15
+Configuration1_Item15=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical2|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration1_Name16=OutputConfigurationParameter16
+Configuration1_Item16=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
+Configuration1_Name17=OutputConfigurationParameter17
+Configuration1_Item17=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer
 OutputType2=Pick Place
 OutputName2=Generates pick and place files
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
+Configuration2_Name1=OutputConfigurationParameter1
+Configuration2_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=False|GenerateTextFormat=True
 OutputType3=Test Points For Assembly
 OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
+Configuration3_Name1=OutputConfigurationParameter1
+Configuration3_Item1=AssyAdjacencyDistance=250000|AssyGenerateCSVFormat=True|AssyGenerateIPCFormat=False|AssyGenerateSpreadSheetFormat=False|AssyGenerateTextFormat=False|AssyOriginPosition=Relative|AssyOutlineLayer=56|AssyOutputAdjancencies=False|AssyOutputBoardOutline=False|AssyOutputTraces=False|AssyReportBottomLayerTestpoints=True|AssyReportTopLayerTestpoints=True|AssyUnits=Imperial|Record=TestPointView
 
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Kyocera FS-6970DN KX
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=NC Drill
-OutputName1=NC Drill Files
+OutputType1=Mask
+OutputName1=Solder/Paste Mask Prints
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-Configuration1_Name1=OutputConfigurationParameter1
-Configuration1_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=True|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=False|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
-OutputType2=Mask
-OutputName2=Solder/Paste Mask Prints
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType2=Test Points
+OutputName2=Test Point Report
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType3=Test Points
-OutputName3=Test Point Report
+OutputType3=NC Drill
+OutputName3=NC Drill Files
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
+Configuration3_Name1=OutputConfigurationParameter1
+Configuration3_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=True|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=False|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
 OutputType4=Plane
 OutputName4=Power-Plane Prints
 OutputDocumentPath4=
@@ -684,7 +772,7 @@ OutputName6=Drill Drawing/Guides
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=4.12|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=4.61|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
 Configuration6_Name1=OutputConfigurationParameter1
 Configuration6_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
 Configuration6_Name2=OutputConfigurationParameter2
@@ -719,71 +807,81 @@ OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType9=Gerber
-OutputName9=Gerber Files
+OutputType9=Board Stack Report
+OutputName9=Report Board Stack
 OutputDocumentPath9=
-OutputVariantName9=[No Variations]
+OutputVariantName9=
 OutputDefault9=0
-Configuration9_Name1=OutputConfigurationParameter1
-Configuration9_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False
-OutputType10=Board Stack Report
-OutputName10=Report Board Stack
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=Gerber X2
-OutputName11=Gerber X2 Files
+OutputType11=IPC2581
+OutputName11=IPC-2581 Files
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=IPC2581
-OutputName12=IPC-2581 Files
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
+Configuration12_Name1=OutputConfigurationParameter1
+Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908289~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Kyocera FS-6970DN KX
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Script
-OutputName1=Script Output
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-OutputType2=SimpleBOM
-OutputName2=Simple BOM
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=Filter
+Configuration1_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration1_Name3=ForceUpdateSettings
+Configuration1_Item3=False
+Configuration1_Name4=General
+Configuration1_Item4=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=False|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=950|FormHeight=661|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration1_Name5=GroupOrder
+Configuration1_Item5=Comment=True|Footprint=True
+Configuration1_Name6=OutputConfigurationParameter1
+Configuration1_Item6==SimpleBOMView|SimpleBOMMode=0
+Configuration1_Name7=SortOrder
+Configuration1_Item7=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name8=VisibleOrder
+Configuration1_Item8=Comment=100|Description=100|Designator=100|Footprint=100|LibRef=100|Quantity=100
+OutputType2=ComponentCrossReference
+OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-Configuration2_Name1=OutputConfigurationParameter1
-Configuration2_Item1=Record=SimpleBOMView|SimpleBOMMode=0
-OutputType3=SinglePinNetReporter
-OutputName3=Report Single Pin Nets
+OutputType3=ReportHierarchy
+OutputName3=Report Project Hierarchy
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=BOM_PartType
-OutputName4=Bill of Materials
+OutputType4=Script
+OutputName4=Script Output
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-Configuration4_Name1=ColumnNameFormat
-Configuration4_Item1=CaptionAsName
-Configuration4_Name2=ForceUpdateSettings
-Configuration4_Item2=False
-Configuration4_Name3=OutputConfigurationParameter1
-Configuration4_Item3==SimpleBOMView|SimpleBOMMode=0
-OutputType5=ComponentCrossReference
-OutputName5=Component Cross Reference Report
+OutputType5=SimpleBOM
+OutputName5=Simple BOM
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=ReportHierarchy
-OutputName6=Report Project Hierarchy
+Configuration5_Name1=OutputConfigurationParameter1
+Configuration5_Item1=Record=SimpleBOMView|SimpleBOMMode=0
+OutputType6=SinglePinNetReporter
+OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
@@ -1331,38 +1429,38 @@ ComponentUpdate0=0
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=Popular.SchLib
-ComponentDesignItemID1=A4954
-ComponentSymbolReference1=A4954
+ComponentDesignItemID1=1N4148WC
+ComponentSymbolReference1=1N4148WC
 ComponentUpdate1=0
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=Popular.SchLib
-ComponentDesignItemID2=AS5600
-ComponentSymbolReference2=AS5600
+ComponentDesignItemID2=A4954
+ComponentSymbolReference2=A4954
 ComponentUpdate2=0
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=Popular.SchLib
-ComponentDesignItemID3=BLM
-ComponentSymbolReference3=BLM
+ComponentDesignItemID3=AS5600
+ComponentSymbolReference3=AS5600
 ComponentUpdate3=0
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=Popular.SchLib
-ComponentDesignItemID4=CDRH74
-ComponentSymbolReference4=CDRH74
+ComponentDesignItemID4=BLM
+ComponentSymbolReference4=BLM
 ComponentUpdate4=0
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=Popular.SchLib
-ComponentDesignItemID5=CHIP_C
-ComponentSymbolReference5=CHIP_C
+ComponentDesignItemID5=CDRH74
+ComponentSymbolReference5=CDRH74
 ComponentUpdate5=0
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=Popular.SchLib
-ComponentDesignItemID6=CWF-2
-ComponentSymbolReference6=CWF-2
+ComponentDesignItemID6=CHIP_C
+ComponentSymbolReference6=CHIP_C
 ComponentUpdate6=0
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
@@ -1385,8 +1483,8 @@ ComponentUpdate9=0
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
 ComponentLibraryIdentifier10=Popular.SchLib
-ComponentDesignItemID10=JANMP_0603
-ComponentSymbolReference10=JANMP_0603
+ComponentDesignItemID10=KP-3216
+ComponentSymbolReference10=KP-3216
 ComponentUpdate10=0
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
@@ -1445,26 +1543,26 @@ ComponentUpdate19=0
 ComponentIsDeviceSheet19=0
 ComponentLibIdentifierKind20=Library Name And Type
 ComponentLibraryIdentifier20=Popular.SchLib
-ComponentDesignItemID20=RES_2512
-ComponentSymbolReference20=RES_2512
+ComponentDesignItemID20=Selector_0603
+ComponentSymbolReference20=Selector_0603
 ComponentUpdate20=0
 ComponentIsDeviceSheet20=0
 ComponentLibIdentifierKind21=Library Name And Type
 ComponentLibraryIdentifier21=Popular.SchLib
-ComponentDesignItemID21=SM6T27CA
-ComponentSymbolReference21=SM6T27CA
+ComponentDesignItemID21=Tantal
+ComponentSymbolReference21=Tantal
 ComponentUpdate21=0
 ComponentIsDeviceSheet21=0
 ComponentLibIdentifierKind22=Library Name And Type
 ComponentLibraryIdentifier22=Popular.SchLib
-ComponentDesignItemID22=Tantal
-ComponentSymbolReference22=Tantal
+ComponentDesignItemID22=TC1047
+ComponentSymbolReference22=TC1047
 ComponentUpdate22=0
 ComponentIsDeviceSheet22=0
 ComponentLibIdentifierKind23=Library Name And Type
 ComponentLibraryIdentifier23=Popular.SchLib
-ComponentDesignItemID23=thermoSensor
-ComponentSymbolReference23=thermoSensor
+ComponentDesignItemID23=TestPoint
+ComponentSymbolReference23=TestPoint
 ComponentUpdate23=0
 ComponentIsDeviceSheet23=0
 ComponentLibIdentifierKind24=Library Name And Type
@@ -1483,13 +1581,13 @@ ComponentLibIdentifierKind26=Library Name And Type
 ComponentLibraryIdentifier26=Popular.SchLib
 ComponentDesignItemID26=USB_micro
 ComponentSymbolReference26=USB_micro
-ComponentUpdate26=0
+ComponentUpdate26=1
 ComponentIsDeviceSheet26=0
 ComponentLibIdentifierKind27=Library Name And Type
 ComponentLibraryIdentifier27=STM32.SchLib
 ComponentDesignItemID27=SAMD21G18A-AUT
 ComponentSymbolReference27=SAMD21G18A-AUT
-ComponentUpdate27=1
+ComponentUpdate27=0
 ComponentIsDeviceSheet27=0
 FullReplace=1
 UpdateDesignatorLock=1
@@ -1515,64 +1613,64 @@ ParameterUpdate3=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=0R 0603
+ModelName0=0R 0603 selector
 ModelUpdate0=1
 ModelType1=PCBLIB
-ModelName1=AlCap_8x8x11
+ModelName1=1206Lxxx
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=ALUM_CAP_C
+ModelName2=AlCap_8x8x11
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=ALUM_CAP_E
+ModelName3=ALUM_CAP_C
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=ALUM_CAP_F
+ModelName4=ALUM_CAP_D
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=ALUM_CAP_G
+ModelName5=ALUM_CAP_E
 ModelUpdate5=1
 ModelType6=PCBLIB
-ModelName6=CDRH74
+ModelName6=ALUM_CAP_F
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=CG0603MLC-05E
+ModelName7=ALUM_CAP_G
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=CHIP_C_0603
+ModelName8=CDRH74
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=CHIP_C_0805
+ModelName9=CHIP_C_0603
 ModelUpdate9=1
 ModelType10=PCBLIB
-ModelName10=CHIP_C_1206
+ModelName10=CHIP_C_0805
 ModelUpdate10=1
 ModelType11=PCBLIB
-ModelName11=CHIP_C_1210
+ModelName11=CHIP_C_1206
 ModelUpdate11=1
 ModelType12=PCBLIB
-ModelName12=CHIP_CRYSTAL_5032
+ModelName12=CHIP_C_1210
 ModelUpdate12=1
 ModelType13=PCBLIB
-ModelName13=CHIP_R_0603
+ModelName13=CHIP_CRYSTAL_5032
 ModelUpdate13=1
 ModelType14=PCBLIB
-ModelName14=CHIP_R_1206
+ModelName14=CHIP_D_0603
 ModelUpdate14=1
 ModelType15=PCBLIB
-ModelName15=CHIP_R_2512
+ModelName15=CHIP_D_1632
 ModelUpdate15=1
 ModelType16=PCBLIB
-ModelName16=CWF-2
+ModelName16=CHIP_R_0603
 ModelUpdate16=1
 ModelType17=PCBLIB
-ModelName17=CWF-4
+ModelName17=CHIP_R_1206
 ModelUpdate17=1
 ModelType18=PCBLIB
-ModelName18=CWF-4R
+ModelName18=CWF-4
 ModelUpdate18=1
 ModelType19=PCBLIB
-ModelName19=DO-214AA
+ModelName19=CWF-4R
 ModelUpdate19=1
 ModelType20=PCBLIB
 ModelName20=DO214-AC
@@ -1593,50 +1691,68 @@ ModelType25=PCBLIB
 ModelName25=NX3215SA
 ModelUpdate25=1
 ModelType26=PCBLIB
-ModelName26=PLS-2
+ModelName26=PBS2-5
 ModelUpdate26=1
 ModelType27=PCBLIB
-ModelName27=PLS-5
+ModelName27=PLS-2
 ModelUpdate27=1
 ModelType28=PCBLIB
-ModelName28=QFN20
+ModelName28=PLS2-5
 ModelUpdate28=1
 ModelType29=PCBLIB
-ModelName29=QFN48
+ModelName29=PLS-2R
 ModelUpdate29=1
 ModelType30=PCBLIB
-ModelName30=SMDC014F
+ModelName30=PLS-5
 ModelUpdate30=1
 ModelType31=PCBLIB
-ModelName31=SMDC014F-2
+ModelName31=QFN20
 ModelUpdate31=1
 ModelType32=PCBLIB
-ModelName32=SOIC8
+ModelName32=QFN48
 ModelUpdate32=1
 ModelType33=PCBLIB
-ModelName33=SOT23
+ModelName33=SMDC014F
 ModelUpdate33=1
 ModelType34=PCBLIB
-ModelName34=Tantal - A
+ModelName34=SMDC014F-2
 ModelUpdate34=1
 ModelType35=PCBLIB
-ModelName35=Tantal - B
+ModelName35=SOD323
 ModelUpdate35=1
 ModelType36=PCBLIB
-ModelName36=TANTAL - C
+ModelName36=SOIC8
 ModelUpdate36=1
 ModelType37=PCBLIB
-ModelName37=Tantal - D
+ModelName37=SOT23
 ModelUpdate37=1
 ModelType38=PCBLIB
-ModelName38=TANTAL - E
+ModelName38=Tantal - A
 ModelUpdate38=1
 ModelType39=PCBLIB
-ModelName39=TSSOP-16P
+ModelName39=Tantal - B
 ModelUpdate39=1
 ModelType40=PCBLIB
-ModelName40=UJ2-MIBH2-4-SMT
+ModelName40=TANTAL - C
 ModelUpdate40=1
+ModelType41=PCBLIB
+ModelName41=Tantal - D
+ModelUpdate41=1
+ModelType42=PCBLIB
+ModelName42=TANTAL - E
+ModelUpdate42=1
+ModelType43=PCBLIB
+ModelName43=TestPoint
+ModelUpdate43=1
+ModelType44=PCBLIB
+ModelName44=TSSOP-16
+ModelUpdate44=1
+ModelType45=PCBLIB
+ModelName45=TSSOP-16P
+ModelUpdate45=1
+ModelType46=PCBLIB
+ModelName46=UJ2-MIBH2-4-SMT
+ModelUpdate46=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
