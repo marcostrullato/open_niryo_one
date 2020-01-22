@@ -1,0 +1,50 @@
+Bill of Material for 
+On 22.01.2020 at 16:26:05
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ .15RF               CHIP_R_1206      2    R8, R9                       Resistor             
+ 0.1uF               CHIP_C_0603     12    C1, C3, C5, C8, C9, C10, C12                      
+                                           C13, C20, C21, C22, C23
+ 0.22uF              CHIP_C_0603      1    C15                                               
+ 0R                  0R 0603 selector    1    R4                                                
+ 0R                  CHIP_R_0603      2    R7, R10                                           
+ 100uF x 10V         Tantal - B       1    C18                                               
+ 100uF x 35V         ALUM_CAP_D       1    C14                                               
+ 10K                 CHIP_R_0603      3    R1, R2, R14                                       
+ 10MQ040(60)         DO214-AC         1    D3                           Rectifier diode      
+ 10uF                CHIP_C_0603      1    C11                                               
+ 1206L050            1206Lxxx         1    F1                           Fuse                 
+ 1206L200            1206Lxxx         1    F2                                                
+ 120R                CHIP_R_1206      1    R15                                               
+ 1K                  CHIP_R_0603      2    R3, R12                                           
+ 1N4148WC            SOD323           1    D2                                                
+ 1uF                 CHIP_C_0603      1    C2                                                
+ 1uF                 CHIP_C_0805      1    C16                                               
+ 22pF                CHIP_C_0603      4    C4, C6, C24, C25                                  
+ 3K32F               CHIP_R_0603      1    R13                                               
+ 4.7nF               CHIP_C_0603      1    C19                                               
+ 4K7                 CHIP_R_0603      2    R5, R6                                            
+ 5K6F                CHIP_R_0603      1    R11                                               
+ 68uF x 16V          TANTAL - C       1    C17                                               
+ A4954               TSSOP-16P        1    U4                           DMOS PWM Motor Driver 
+ AS5600              SOIC8            1    U3                           program magnetic rotary position  sensor 
+ BL-HUE33-AV         CHIP_D_0603      2    D1, D4                       LED                  
+ BLM18PG471SN1D      CHIP_R_0603      2    L1, L3                                            
+ CDRH74              CDRH74           1    L2                           Ferrite drum core construction 
+ CUI UJ2-MIBH2-4-SMT-TR MicroUSB-mc-258    1    J3                           Micro USB connector  
+ CWF-4               CWF-4R           1    J4                                                
+ IRLML2402           SOT23            1    Q1                           n-chanal MOSFET      
+ KX-K 16 MHZ         CHIP_CRYSTAL_5032    1    Y2                                                
+ Lamel               LAMEL            4    1, 2, 3, 4                                        
+ LM2594M-ADJ         SOIC8            1    U5                                                
+ MCP2515             QFN20            1    U7                                                
+ NX3215SA-32.768K-STD-MUA-8 NX3215SA         1    Y1                                                
+ PLS-2               PLS-2            1    J1                           Connector            
+ PLS-2R              PLS-2R           1    JP1                                               
+ PLS-4               PLS-4            1    J2                           PLS-4                
+ SAMD21G18A-AUT      LQFP48           1    U1                                                
+ SN65HVD230D         SOIC8            1    U6                                                
+ TC1047              SOT23            1    U2                           Temperature Sensor   
+ TestPoint           TestPoint        4    3V3, 5V, 12V, GND                                 
+ US-1G               DO214-AC         1    D5                                                
