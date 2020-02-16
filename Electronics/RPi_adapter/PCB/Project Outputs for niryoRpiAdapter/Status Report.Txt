@@ -1,19 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [niryoRpiAdapter.PrjPCB]
-   Generated File[RpiAdapterPCB.GTL]
-   Generated File[RpiAdapterPCB.GBL]
-   Generated File[RpiAdapterPCB.GTO]
-   Generated File[RpiAdapterPCB.GTS]
-   Generated File[RpiAdapterPCB.GBS]
-   Generated File[RpiAdapterPCB.GBO]
-   Generated File[RpiAdapterPCB.GM1]
-   Generated File[RpiAdapterPCB.RUL]
-   Generated File[RpiAdapterPCB.EXTREP]
-   Generated File[RpiAdapterPCB.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [niryoRpiAdapter.PrjPCB]
+   Generated File[RpiAdapterPCB.TXT]
+   Generated File[RpiAdapterPCB.LDP]
+   Generated File[RpiAdapterPCB.DRR]
 
 
-Files Generated   : 10
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 22:48:39 On 16.02.2020
+Finished Output Generation At 23:20:55 On 16.02.2020
