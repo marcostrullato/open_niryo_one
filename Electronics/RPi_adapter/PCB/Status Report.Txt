@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[RpiAdapterPCB.GTL]
+   Generated File[RpiAdapterPCB.GBL]
+   Generated File[RpiAdapterPCB.GTO]
+   Generated File[RpiAdapterPCB.GTS]
+   Generated File[RpiAdapterPCB.GBS]
+   Generated File[RpiAdapterPCB.GBO]
+   Generated File[RpiAdapterPCB.GM1]
+   Generated File[RpiAdapterPCB.RUL]
+   Generated File[RpiAdapterPCB.EXTREP]
+   Generated File[RpiAdapterPCB.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 22:47:46 On 16.02.2020
