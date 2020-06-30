@@ -127,58 +127,110 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.DRR
+DocumentPath=ProjectOutputs\RpiAdapterPCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.EXTREP
+DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.GBL
+DocumentPath=ProjectOutputs\RpiAdapterPCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.GBO
+DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.GBS
+DocumentPath=ProjectOutputs\RpiAdapterPCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.GM1
+DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.GTL
+DocumentPath=ProjectOutputs\RpiAdapterPCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.GTO
+DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.GTS
+DocumentPath=ProjectOutputs\RpiAdapterPCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.LDP
+DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=RpiAdapterPCB.PcbDoc.htm
+DocumentPath=ProjectOutputs\RpiAdapterPCB.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.REP
+DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.RUL
+DocumentPath=ProjectOutputs\RpiAdapterPCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
+DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=ProjectOutputs\RpiAdapterPCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=ProjectOutputs\RpiAdapterPCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=ProjectOutputs\RpiAdapterPCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=RpiAdapterPCB.PcbDoc.htm
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=ProjectOutputs\RpiAdapterPCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=ProjectOutputs\RpiAdapterPCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=ProjectOutputs\RpiAdapterPCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument27]
 DocumentPath=Project Outputs for niryoRpiAdapter\RpiAdapterPCB.TXT
 DItemRevisionGUID=
 
@@ -191,6 +243,9 @@ CurrentRevision=
 Variant=[No Variations]
 GenerateBOM=1
 OutputJobsCount=0
+
+[Generic_EDE]
+OutputDir=Project Outputs for niryoRpiAdapter
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
@@ -225,9 +280,6 @@ SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
-
-[Generic_EDE]
-OutputDir=Project Outputs for niryoRpiAdapter
 
 [OutputGroup1]
 Name=Netlist Outputs

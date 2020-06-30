@@ -1,19 +1,9 @@
-Output: Gerber Files
-Type  : Gerber
+Output: Bill of Materials
+Type  : BOM
 From  : Variant [[No Variations]] of Project [niryoRpiAdapter.PrjPCB]
-   Generated File[RpiAdapterPCB.GTL]
-   Generated File[RpiAdapterPCB.GBL]
-   Generated File[RpiAdapterPCB.GTO]
-   Generated File[RpiAdapterPCB.GTS]
-   Generated File[RpiAdapterPCB.GBS]
-   Generated File[RpiAdapterPCB.GBO]
-   Generated File[RpiAdapterPCB.GM1]
-   Generated File[RpiAdapterPCB.RUL]
-   Generated File[RpiAdapterPCB.EXTREP]
-   Generated File[RpiAdapterPCB.REP]
 
 
-Files Generated   : 10
+Files Generated   : 0
 Documents Printed : 0
 
-Finished Output Generation At 23:34:31 On 16.02.2020
+Finished Output Generation At 9:53:41 On 30.06.2020
