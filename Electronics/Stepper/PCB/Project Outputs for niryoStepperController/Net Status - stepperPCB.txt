@@ -1,0 +1,63 @@
+Net Status Report
+Filename     : D:\SOFTWARE\open_niryo_one\Electronics\Stepper\PCB\stepperPCB.PcbDoc
+Date         : 16.09.2019
+Time         : 16:33:01
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    12V, Signal Layers Only, 76.7911mm
+    1A, Signal Layers Only, 7.2819mm
+    1B, Signal Layers Only, 6.992mm
+    2A, Signal Layers Only, 7.0304mm
+    2B, Signal Layers Only, 7.2997mm
+    3V3, Signal Layers Only, 185.4371mm
+    5V, Signal Layers Only, 2.128mm
+    AREFA, Signal Layers Only, 0mm
+    CANH, Signal Layers Only, 10.1391mm
+    CANL, Signal Layers Only, 7.2061mm
+    CAN_RX, Signal Layers Only, 9.4964mm
+    CAN_TX, Signal Layers Only, 14.006mm
+    FUN, Signal Layers Only, 26.9898mm
+    GND, Signal Layers Only, 239.8444mm
+    IN1, Signal Layers Only, 10.5957mm
+    IN2, Signal Layers Only, 8.909mm
+    IN3, Signal Layers Only, 11.1724mm
+    IN4, Signal Layers Only, 7.0316mm
+    I\N\T\, Signal Layers Only, 38.6384mm
+    LED, Signal Layers Only, 16.4475mm
+    LESS1, Signal Layers Only, 8.1322mm
+    LESS2, Signal Layers Only, 9.5756mm
+    MISO, Signal Layers Only, 36.4164mm
+    MOSI, Signal Layers Only, 36.6241mm
+    NetC16_2, Signal Layers Only, 14.4856mm
+    NetC20_2, Signal Layers Only, 7.3693mm
+    NetC21_2, Signal Layers Only, 12.7057mm
+    NetC22_2, Signal Layers Only, 8.0734mm
+    NetC2_1, Signal Layers Only, 6.949mm
+    NetC4_2, Signal Layers Only, 10.1187mm
+    NetC6_2, Signal Layers Only, 8.778mm
+    NetD1_1, Signal Layers Only, 3.6884mm
+    NetD3_2, Signal Layers Only, 6.9869mm
+    NetD6_1, Signal Layers Only, 8.8204mm
+    NetF1_1, Signal Layers Only, 4.1736mm
+    NetF2_1, Signal Layers Only, 5.9906mm
+    NetJ1_2, Signal Layers Only, 2.218mm
+    NetJP1_1, Signal Layers Only, 2.54mm
+    NetL1_2, Signal Layers Only, 6.0765mm
+    NetR11_1, Signal Layers Only, 8.3017mm
+    NetR4_2, Signal Layers Only, 2.917mm
+    SCK, Signal Layers Only, 36.3342mm
+    SCL, Signal Layers Only, 19.973mm
+    SDA, Signal Layers Only, 23.7815mm
+    SS, Signal Layers Only, 28.8941mm
+    SWCLK, Signal Layers Only, 6.049mm
+    SWDIO, Signal Layers Only, 10.3245mm
+    TEMP, Signal Layers Only, 15.89mm
+    TRG_RST, Signal Layers Only, 13.0459mm
+    USB_N, Signal Layers Only, 48.9676mm
+    USB_P, Signal Layers Only, 47.7218mm
+    USB_SHELD, Signal Layers Only, 0.166mm
+    VIN, Signal Layers Only, 43.9671mm
+    VREF1, Signal Layers Only, 9.4806mm
+    VREF2, Signal Layers Only, 7.0859mm
+count : 55

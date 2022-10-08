@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [niryoPanel.PrjPcb]
+   Generated File[panel.GTL]
+   Generated File[panel.GBL]
+   Generated File[panel.GTO]
+   Generated File[panel.GTS]
+   Generated File[panel.GBS]
+   Generated File[panel.GBO]
+   Generated File[panel.GM1]
+   Generated File[panel.RUL]
+   Generated File[panel.EXTREP]
+   Generated File[panel.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 23:37:59 On 16.02.2020

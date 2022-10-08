@@ -1,0 +1,11 @@
+Output: Simple BOM
+Type  : SimpleBOM
+From  : Variant [[No Variations]] of Project [niryoStepperController.PrjPcb]
+   Generated File[stepperPCB.BOM]
+   Generated File[stepperPCB.CSV]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 16:26:05 On 22.01.2020

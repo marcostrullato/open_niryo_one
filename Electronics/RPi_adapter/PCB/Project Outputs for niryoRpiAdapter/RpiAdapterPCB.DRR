@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: RpiAdapterPCB.PcbDoc   16.02.2020  23:20:55
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : RpiAdapterPCB.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        11.81mil (0.29997mm)     Round          53               9.94 Inch (252.39 mm)
+T2        29.53mil (0.75006mm)     Round          3                0.16 Inch (4.00 mm)
+T3        39.37mil (1mm)           Round          97               15.66 Inch (397.78 mm)
+T4        47.24mil (1.1999mm)      Round          15               2.31 Inch (58.71 mm)
+T5        59.06mil (1.50012mm)     Round          6                1.47 Inch (37.28 mm)
+T6        118.11mil (2.99999mm)    Round          5                6.95 Inch (176.61 mm)
+---------------------------------------------------------------------------
+Totals                                            179              36.49 Inch (926.77 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

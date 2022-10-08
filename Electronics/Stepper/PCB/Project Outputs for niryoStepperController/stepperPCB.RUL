@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: F:\PROJ\open_niryo_one\Electronics\Stepper\PCB\stepperPCB.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=TrackToAllClearance|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=PadToPadClearance|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=PolyClearance|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=ViaToViaClearance|Scope=Board|Minimum=7.87

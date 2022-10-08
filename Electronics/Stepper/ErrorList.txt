@@ -1,0 +1,5 @@
+1. Change LED to 0603 chip
+2. Resister (R3) for LED 330 Ohm
+3. Change USB mounting slots
+4. Mirror USB pins
+5. PCB size: -2mm from each side

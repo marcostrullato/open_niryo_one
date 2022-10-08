@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [niryoRpiAdapter.PrjPCB]
+   Generated File[RpiAdapterPCB.TXT]
+   Generated File[RpiAdapterPCB.LDP]
+   Generated File[RpiAdapterPCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 23:20:55 On 16.02.2020
